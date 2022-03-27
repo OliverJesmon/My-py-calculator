@@ -1,6 +1,7 @@
 # My-py-calculator
 
-This is a basic program of calculator.
+This is a basic program of a basic
+arithmetical calculator.
 You can only run it in IDE's or with
 the help of Linux enviroment.
 
